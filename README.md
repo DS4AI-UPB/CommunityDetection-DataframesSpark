@@ -2,7 +2,7 @@
 
 ## Article:
 
-Elena-Simona Apostol, Adrian-Cosmin Cojocaru and Ciprian-Octavian Truică. *Large-Scale Graphs Community Detection using Spark GraphFrames*, 2024 23rd International Symposium on Parallel and Distributed Computing (ISPDC)
+Elena-Simona Apostol, Adrian-Cosmin Cojocaru and Ciprian-Octavian Truică. *Large-Scale Graphs Community Detection using Spark GraphFrames*, The 23rd International Symposium on Parallel and Distributed Computing (ISPDC), July 2024. 
 
 ## Prerequisites
 
