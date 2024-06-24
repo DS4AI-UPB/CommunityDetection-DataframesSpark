@@ -20,7 +20,7 @@ Packages needed:
 - time
 - heapq
 
-## Testing
+## Utilization
 
 The dataset for testing ``authors_graph.csv``
 
